@@ -1,0 +1,2 @@
+# ThunderbirdCSS
+Custom thunderbird interface
